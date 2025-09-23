@@ -11,3 +11,5 @@ Keywords: Forecasting, Cryptocurrencies, Large Language Models, Artificial Intel
 Author: Owen Chaffard
 
 Submitted:  21.09.2025
+
+Datafile: BTC_data.parquet

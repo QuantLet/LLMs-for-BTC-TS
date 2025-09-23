@@ -12,4 +12,4 @@ Author: Owen Chaffard
 
 Submitted:  21.09.2025
 
-Datafile: BTC_data.parquet
+Datafile: BTC_data.parquet, BTC_data_fracdiff.parquet
