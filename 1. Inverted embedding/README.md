@@ -9,7 +9,7 @@ Name of Quantlet: Enhancing Large Language Models for Bitcoin Time Series Foreca
 
 Published in: LLM-for-BTC-TS
 
-Description: This work seeks to evaluate the performance of reprogrammed LLMs on the Bitcoin price chart, a financial time series known for its complexity and high volatility.
+Description: This work seeks to evaluate the performance of reprogrammed LLMs on the Bitcoin price chart, a financial time series known for its complexity and high volatility. We propose effective methods to improve the performance of Time-LLM, a State-of-the-art (SOTA) method, on such a time series.
 
 Keywords: Forecasting, Cryptocurrencies, Large Language Models, Artificial Intelligence
 
